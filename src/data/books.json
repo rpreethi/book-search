@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Fantasy",
+    "year": 2020,
+    "rating": 4.7,
+    "blurb": "A woman steps into a magical library where each book reveals a different version of her life."
+  },
+  {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Classic",
+    "year": 1813,
+    "rating": 4.8,
+    "blurb": "A witty romance about manners, misunderstandings, and the slow dance of love."
+  },
+  {
+    "id": 3,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "year": 2018,
+    "rating": 4.6,
+    "blurb": "A practical guide to building habits that last with small, steady steps."
+  },
+  {
+    "id": 4,
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "genre": "Historical Fiction",
+    "year": 1982,
+    "rating": 4.4,
+    "blurb": "A family saga full of secrets, passion, and the echoes of history."
+  },
+  {
+    "id": 5,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "year": 2018,
+    "rating": 4.9,
+    "blurb": "A powerful memoir about resilience, education, and reclaiming identity."
+  },
+  {
+    "id": 6,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "year": 2019,
+    "rating": 4.5,
+    "blurb": "A psychological thriller told through a chilling portrait of silence."
+  },
+  {
+    "id": 7,
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "Contemporary",
+    "year": 2022,
+    "rating": 4.7,
+    "blurb": "Two friends build a game studio and discover what friendship costs."
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Adventure",
+    "year": 1937,
+    "rating": 4.8,
+    "blurb": "A cozy and magical quest through mountains, dragons, and ancient lore."
+  },
+  {
+    "id": 9,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Memoir",
+    "year": 2018,
+    "rating": 4.6,
+    "blurb": "A candid memoir about family, ambition, and finding your voice."
+  },
+  {
+    "id": 10,
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "genre": "Literary Fiction",
+    "year": 2020,
+    "rating": 4.5,
+    "blurb": "Twin sisters choose different paths and leave behind a shared legacy."
+  },
+  {
+    "id": 11,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction",
+    "year": 1988,
+    "rating": 4.3,
+    "blurb": "A fable about chasing dreams and following the language of the heart."
+  },
+  {
+    "id": 12,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "year": 2018,
+    "rating": 4.7,
+    "blurb": "A lyrical retelling of the life of the witch Circe from Greek myth."
+  }
+]
